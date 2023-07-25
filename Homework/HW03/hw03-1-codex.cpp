@@ -11,5 +11,5 @@ int main() {
           if( i == 8 ) {
             printf( "This is 8. " ) ; 
           }
-        }printf( "ok" ) ;
+        } printf( "ok" ) ;
     } return 0 ; }
