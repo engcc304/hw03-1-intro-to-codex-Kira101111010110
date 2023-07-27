@@ -13,8 +13,6 @@ int main() {
             if( i == 8 ) {
                 printf( "This is 8. " ) ; 
             }
-        }
-        printf( "ok" ) ;
-    } 
-    return 0 ; 
+        } printf( "ok" ) ;
+    } return 0 ; 
 }
