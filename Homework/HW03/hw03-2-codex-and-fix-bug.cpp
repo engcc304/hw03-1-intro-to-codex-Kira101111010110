@@ -1,6 +1,6 @@
 //TODO: #9 Fix bug and arrange code in CODEX pattern.
-#include <studio.h>
-#include <coni.h>
+#include <stdio.h>
+#include <conio.h>
 int main(){
 float a,b=3;bool _1=0;printf("%d ",_1);int i=0;
 if(_1!=0)printf("ok ")else while(i<=5) 
